@@ -1,0 +1,2 @@
+# mailslurper
+Dockerfile for mailslurper
